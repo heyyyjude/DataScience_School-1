@@ -105,3 +105,4 @@ ENV/
 pw.*
 *.json
 *.png
+*.csv
